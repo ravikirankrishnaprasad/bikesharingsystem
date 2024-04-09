@@ -28,5 +28,5 @@
 - Utilized Stack Overflow for troubleshooting and optimizing data manipulation techniques.
 
 ## Contact
-Created by Ravikiran Krishnaprasad and Amit Kumar - feel free to contact me!
+Created by Ravikiran Krishnaprasad - feel free to contact me!
 
