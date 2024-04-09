@@ -23,7 +23,9 @@
 - matplotlib - for data visualization and graphical analysis of model predictions.
 
 ## Acknowledgements
--
+- Problem statements and methodlogies derived from Upgrad and IIITB course
+- Insights and methodologies were derived from peer analyses and community discussions.
+- Utilized Stack Overflow for troubleshooting and optimizing data manipulation techniques.
 
 ## Contact
 Created by Ravikiran Krishnaprasad and Amit Kumar - feel free to contact me!
