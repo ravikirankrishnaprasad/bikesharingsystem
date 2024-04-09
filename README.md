@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Bike Sharing System
+> This project focuses on building a linear regression model to predict the demand for shared bikes by a US bike-sharing provider, BoomBikes, aiming to navigate through the revenue dips caused by the Corona pandemic.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,45 +7,24 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The project aims to assist BoomBikes in understanding the demand dynamics for shared bikes post the Corona pandemic. The primary goal is to identify significant variables influencing bike demand and to predict future demands accurately.
+- This need arises from the substantial revenue dips due to reduced mobility during the pandemic. The project seeks to enable strategic business planning for revenue acceleration post-pandemic.
+- The dataset comprises daily records of bike rentals, including variables like weather conditions, seasonality, and user type (casual or registered), spanning across 2018 and 2019.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- The linear regression model indicates a strong ability to predict bike rental demand, with an R-squared score of approximately 0.852 on the test set, suggesting that the chosen features are highly indicative of demand.
+- Seasonal and weather-related variables, alongside the year of rental, significantly affect bike rental demand, highlighting the importance of strategic planning around these factors.
+- Continuous monitoring and adjustment of the model are recommended as more data becomes available, especially considering potential shifts in user behavior post-pandemic.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- pandas - for data manipulation and analysis.
+- scikit-learn - for building the linear regression model and performing data preprocessing and model evaluation.
+- matplotlib - for data visualization and graphical analysis of model predictions.
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Ravikiran Krishnaprasad and Amit Kumar - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
