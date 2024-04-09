@@ -1,5 +1,5 @@
 # Bike Sharing System
-> This project focuses on building a linear regression model to predict the demand for shared bikes by a US bike-sharing provider, BoomBikes, aiming to navigate through the revenue dips caused by the Corona pandemic.
+- This project focuses on building a linear regression model to predict the demand for shared bikes by a US bike-sharing provider, BoomBikes, aiming to navigate through the revenue dips caused by the Corona pandemic.
 
 ## Table of Contents
 * [General Info](#general-information)
