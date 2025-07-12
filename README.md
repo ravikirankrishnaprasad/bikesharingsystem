@@ -1,5 +1,21 @@
 # Bike Sharing System
-- This project focuses on building a linear regression model to predict the demand for shared bikes by a US bike-sharing provider, BoomBikes, aiming to navigate through the revenue dips caused by the Corona pandemic.
+## 🧠 Problem Statement
+
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short-term basis, either for a price or for free. Many systems allow users to borrow a bike from a computer-controlled dock after entering payment information, and the bike can then be returned to another dock within the same system.
+
+BoomBikes, a US-based bike-sharing provider, has experienced a significant decline in revenue due to the COVID-19 pandemic. In an effort to recover and grow post-lockdown, the company aims to develop a data-driven business strategy to understand future demand trends.
+
+To support this, BoomBikes has partnered with a consulting company to identify the key factors influencing bike demand. Using historical data on bike rentals, weather conditions, and other variables, the goal is to build a predictive model that:
+
+- Identifies the significant variables affecting shared bike demand.
+- Explains how those variables correlate with demand fluctuations.
+
+## 🎯 Business Goal
+
+The objective is to model the daily demand for shared bikes based on independent features. This model will help management:
+- Understand how demand varies with key factors.
+- Optimize operational strategies to meet projected demand.
+- Plan for expansion into new markets based on demand dynamics.
 
 ## Table of Contents
 * [General Info](#general-information)
